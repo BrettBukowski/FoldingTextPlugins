@@ -1,0 +1,10 @@
+{
+  "name": "Active Line",
+  "version": "1.0.0",
+  "description": "Highlights the active line by enabling [CodeMirror's activeLine addon](http://codemirror.net/doc/manual.html#addons)",
+  "homepage": "https://github.com/BrettBukowski/FoldingTextPlugins",
+  "engines": {
+    "foldingtext": ">2.0.0",
+    "taskpaper": ">3.0.0"
+  }
+}
