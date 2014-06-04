@@ -1,0 +1,10 @@
+{
+  "name": "Toggle Done",
+  "version": "1.0.0",
+  "description": "Toggles the @done tag on the current line with Cmd-D",
+  "homepage": "https://github.com/BrettBukowski/FoldingTextPlugins",
+  "engines": {
+    "foldingtext": ">2.0.0",
+    "taskpaper": ">3.0.0"
+  }
+}
