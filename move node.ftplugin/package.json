@@ -1,0 +1,10 @@
+{
+  "name": "Move Node",
+  "version": "1.0.0",
+  "description": "Moves the current node (line) up and down",
+  "homepage": "https://github.com/BrettBukowski/FoldingTextPlugins",
+  "engines": {
+    "foldingtext": ">2.0.0",
+    "taskpaper": ">3.0.0"
+  }
+}
