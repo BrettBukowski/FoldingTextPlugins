@@ -15,6 +15,8 @@ define(function(require) {
         content = node.line(),
         sibling = (direction == 'down') ? node.nextLineNode() : node.previousLineNode();
 
+    if (!sibling) return;
+
     tree.beginUpdates();
 
     node.setLine(sibling.line());
