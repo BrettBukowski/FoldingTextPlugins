@@ -1,0 +1,10 @@
+{
+  "name": "Select Line",
+  "version": "1.0.0",
+  "description": "Selects the current line with Shift-Alt-S",
+  "homepage": "https://github.com/BrettBukowski/FoldingTextPlugins",
+  "engines": {
+    "foldingtext": ">2.0.0",
+    "taskpaper": ">3.0.0"
+  }
+}
