@@ -1,0 +1,10 @@
+{
+  "name": "Select Word",
+  "version": "1.0.0",
+  "description": "Selects the current word with Alt-W",
+  "homepage": "https://github.com/BrettBukowski/FoldingTextPlugins",
+  "engines": {
+    "foldingtext": ">2.0.0",
+    "taskpaper": ">3.0.0"
+  }
+}
