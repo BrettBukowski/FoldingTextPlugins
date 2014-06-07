@@ -2,7 +2,7 @@
 define(function (require) {
   'use strict';
 
-  describe('Toggle Done', function () {
+  describe('Select Line', function () {
     var Taxonomies = require('ft/core/taxonomies'),
       Editor = require('ft/editor/editor').Editor,
       taxonomy = Taxonomies.taxonomy({
@@ -21,7 +21,7 @@ define(function (require) {
       editor.removeAndCleanupForCollection();
     });
 
-    it('should toggle the done tag', function () {
+    it('should select the current line', function () {
       editor.setTextContent('hello');
       editor.performCommand('Select Line');
 
