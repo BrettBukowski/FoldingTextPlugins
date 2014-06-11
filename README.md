@@ -23,3 +23,7 @@ Selects the current line with Shift-Alt-S.
 ### Select Word
 
 Selects the current word with Alt-W.
+
+### Duplicate Line
+
+Duplicates the current line with Cmd-Shift-D.
